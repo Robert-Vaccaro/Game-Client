@@ -1,0 +1,55 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.css');
+@import url('https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css');
+
+.sorting_asc::before{
+  padding-right: 5px;
+}
+.sorting::before{
+  padding-right: 5px;
+}
+.sorting_desc::before{
+  padding-right: 5px;
+}
+.sorting:hover {
+  background: grey
+} 
+.sorting_asc:hover {
+  background: grey
+}
+.sorting_desc:hover{
+  background: grey
+}
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
+body{
+  background: #10693d00;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #052b52, #08552e);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #052b52, #08552e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color:white;
+  font-family: 'Roboto', sans-serif;
+}
+.pagination{
+  color: black;
+  text-align: center;
+  padding: 10px;
+}
+table td th tr{
+  border: 1px solid rgb(255, 255, 255);
+}
+.row{
+  margin-right: 0px;  
+  margin-left: 0px;  
+}
+.table-responsive > .table-bordered {
+  border: 1px solid rgb(255, 255, 255);
+}
+/* custom scrollbar for webkit browser*/
+
+::-webkit-scrollbar {
+  width: 6px;
+} 
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgb(0, 0, 0); 
+} 
+::-webkit-scrollbar-thumb {
+  -webkit-box-shadow: inset 0 0 6px rgb(0, 0, 0); 
+}
