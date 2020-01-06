@@ -2,13 +2,13 @@
 @import url('https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css');
 
 .sorting_asc::before{
-  padding-right: 5px;
+  padding-right: 1px;
 }
 .sorting::before{
-  padding-right: 5px;
+  padding-right: 1px;
 }
 .sorting_desc::before{
-  padding-right: 5px;
+  padding-right: 1px;
 }
 .sorting:hover {
   background: grey
