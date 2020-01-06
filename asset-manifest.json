@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Robert-Vaccaro/Game-Client/static/css/main.1fd50fee.chunk.css",
+    "main.js": "/Robert-Vaccaro/Game-Client/static/js/main.553221af.chunk.js",
+    "main.js.map": "/Robert-Vaccaro/Game-Client/static/js/main.553221af.chunk.js.map",
+    "runtime-main.js": "/Robert-Vaccaro/Game-Client/static/js/runtime-main.6ad9b9b1.js",
+    "runtime-main.js.map": "/Robert-Vaccaro/Game-Client/static/js/runtime-main.6ad9b9b1.js.map",
+    "static/js/2.129ca569.chunk.js": "/Robert-Vaccaro/Game-Client/static/js/2.129ca569.chunk.js",
+    "static/js/2.129ca569.chunk.js.map": "/Robert-Vaccaro/Game-Client/static/js/2.129ca569.chunk.js.map",
+    "index.html": "/Robert-Vaccaro/Game-Client/index.html",
+    "precache-manifest.4e87387c274448a5e22f7ac1a65e4724.js": "/Robert-Vaccaro/Game-Client/precache-manifest.4e87387c274448a5e22f7ac1a65e4724.js",
+    "service-worker.js": "/Robert-Vaccaro/Game-Client/service-worker.js",
+    "static/css/main.1fd50fee.chunk.css.map": "/Robert-Vaccaro/Game-Client/static/css/main.1fd50fee.chunk.css.map",
+    "static/js/2.129ca569.chunk.js.LICENSE": "/Robert-Vaccaro/Game-Client/static/js/2.129ca569.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ad9b9b1.js",
+    "static/js/2.129ca569.chunk.js",
+    "static/css/main.1fd50fee.chunk.css",
+    "static/js/main.553221af.chunk.js"
+  ]
+}
