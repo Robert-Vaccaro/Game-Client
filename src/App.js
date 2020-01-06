@@ -9,7 +9,7 @@ class App extends React.Component {
     this.state = { apiResponse: [] };
 }
 componentDidMount() {
-  fetch("http://localhost:9000/testAPI")
+  fetch("https://shrouded-reef-01664.herokuapp.com/testapi")
   .then((res) => res.json())
   .then(res => this.setState({apiResponse:res}))
 }
