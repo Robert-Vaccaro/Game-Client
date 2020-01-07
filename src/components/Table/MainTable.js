@@ -81,7 +81,7 @@ class MainTable extends React.Component {
       ],
       rows: []
     };
-    //Handing for general server error
+    //Handling for general server error
     if (this.props.mainError !== "") {
       alert(this.props.mainError);
       data.rows.push({
